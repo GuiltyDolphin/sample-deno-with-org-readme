@@ -5,6 +5,10 @@
 
 * Unreleased
 
+** Added
+
+- a lot of markup examples
+
 * 0.0.0 - 2021-06-24
 
 ** Added
