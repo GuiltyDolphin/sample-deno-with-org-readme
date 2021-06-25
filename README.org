@@ -118,6 +118,14 @@ Without time: <2021-06-24>
 
 Without time (2): <2021-06-24 Thu>
 
+* Horizontal rules
+
+-----
+
+Above and below should be horizontal rules.
+
+-----
+
 * Footnote references
 
 You can reference numbered footnotes[fn:1].
