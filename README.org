@@ -117,3 +117,20 @@ With time: <2021-06-24 Thu 15:51>
 Without time: <2021-06-24>
 
 Without time (2): <2021-06-24 Thu>
+
+* Footnote references
+
+You can reference numbered footnotes[fn:1].
+
+Named footnotes[fn:named].
+
+Anonymous footnotes[fn::Anonymous footnote]
+
+Named, inline footnotes[fn:named-inline: Named inline footnote].
+
+And named inline footnotes can be referenced again[fn:named-inline].
+
+
+[fn:1] A numbered footnote.
+
+[fn:named] A named footnote.
