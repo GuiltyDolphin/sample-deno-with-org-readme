@@ -5,6 +5,8 @@
 
 * Unreleased
 
+* 0.1.2 - 2021-06-26
+
 ** Added
 
 - image examples
