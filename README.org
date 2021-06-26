@@ -118,6 +118,16 @@ Without time: <2021-06-24>
 
 Without time (2): <2021-06-24 Thu>
 
+* Tables
+
+|----------+---------+---------|
+| Header1  | Header2 | Header3 |
+|----------+---------+---------|
+| Val1     | Val2    | Val3    |
+| Val4     | Val5    | Val6    |
+| +strike+ | *bold*  | /etc/   |
+|----------+---------+---------|
+
 * Images
 
 ** Image in brackets
