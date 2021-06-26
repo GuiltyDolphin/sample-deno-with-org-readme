@@ -128,6 +128,33 @@ Without time (2): <2021-06-24 Thu>
 | +strike+ | *bold*  | /etc/   |
 |----------+---------+---------|
 
+* Other blocks
+
+#+BEGIN_QUOTE
+A quote block.
+
+Which can span...
+
+Many lines.
+
+*And you can use* /markup/ here +too+.
+
+- and
+  - a
+- list
+
+
+  --Someone
+#+END_QUOTE
+
+#+BEGIN_EXAMPLE
+An example block.
+
+Does it render well?
+
+*Who knows*.
+#+END_EXAMPLE
+
 * Images
 
 ** Image in brackets
