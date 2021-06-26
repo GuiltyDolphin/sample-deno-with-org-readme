@@ -118,6 +118,26 @@ Without time: <2021-06-24>
 
 Without time (2): <2021-06-24 Thu>
 
+* Images
+
+** Image in brackets
+
+[[https://duckduckgo.com/assets/logo_homepage.normal.v108.svg]]
+
+** Image without brackets
+
+https://duckduckgo.com/assets/logo_homepage.normal.v108.svg
+
+** Image with alt text
+
+[[https://duckduckgo.com/assets/logo_homepage.normal.v108.svg][The logo should be here]]
+
+** Captions
+
+#+CAPTION: Caption for image
+#+NAME:   fig:ddg-icon
+[[https://duckduckgo.com/assets/logo_homepage.normal.v108.svg]]
+
 * Horizontal rules
 
 -----
